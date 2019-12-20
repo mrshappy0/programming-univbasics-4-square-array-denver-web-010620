@@ -1,5 +1,5 @@
 def square_array(array)
-  counter = log10
+  counter = 0
   
   while array[counter] do
     puts sqrt(array[counter])
